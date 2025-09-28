@@ -1,4 +1,5 @@
 {
-  "git_version": "0.1.0",
-  "release_link": "https://github.com/Al-mogtaba/wemos_ota"
+  "git_version": "0.1.1",
+  "release_link": "https://github.com/Al-mogtaba/wemos_ota",
+  "firmware_url": "http://raw.githubusercontent.com/Al-mogtaba/wemos_ota/main/firmware/wemos_ota.bin"
 }
